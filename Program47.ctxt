@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Program47
+comment0.text=WAP\ to\ generate\ the\ given\ number\ pattern\:\r\n\r\n\ 1\r\n\ 2\ 2\r\n\ 3\ 3\ 3\r\n\ 4\ 4\ 4\ 4\r\n\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
